@@ -1,5 +1,5 @@
 - 👋 Hi, I’m KevinGultom
-![Uploading image.png…]()
+
 
 
 <!---
