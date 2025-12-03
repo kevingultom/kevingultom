@@ -43,17 +43,15 @@ Hey there! I'm **Kevin Gultom**, studying **Information Systems** at **Del Insti
 
 ---
 
-### GitHub Stats
+### Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevingultom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Kevin's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevingultom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kevingultom&theme=flat&no-frame=true&column=7&margin-w=15" alt="Kevin's Trophies" />
 </div>
 
 ---
 
-### Education History
+### 🎓 Education History
 
 | Institute | Major | Year | Location |
 | :--- | :--- | :--- | :--- |
