@@ -1,4 +1,4 @@
-# 👋 Hi, I’m KevinGultom
+Hello, I’m KevinGultom
 <img src="https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-908200362.jpg" width="270px">
 
 - 🗽 I'm Interested in Programming
