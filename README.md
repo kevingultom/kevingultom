@@ -10,10 +10,10 @@
     <a href="mailto:kevingultom3110@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/LINKEDIN_KAMU">
+    <a href="https://www.linkedin.com/in/kevin-gultom31">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/IG_KAMU">
+    <a href="https://www.instagram.com/kevgtm/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
@@ -21,12 +21,12 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 Saat ini saya adalah mahasiswa Jurusan **Sistem Informasi** (Angkatan 2023).
-- 🔭 Saya tertarik mendalami **Web Development** dan **Database Management**.
-- 🌱 Sedang mempelajari: Analisis Data dan Cloud Computing.
-- ⚡ Fun fact: Mahasiswa IT Del yang *passionate* dengan teknologi!
+- Saat ini saya adalah mahasiswa Jurusan **Sistem Informasi** (Angkatan 2023).
+- Saya tertarik mendalami **Web Development** dan **Database Management**.
+- Sedang mempelajari: Analisis Data dan Cloud Computing.
+- Fun fact: Mahasiswa IT Del yang *passionate* dengan teknologi!
 
 ---
 
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  </div>
+</div>
 
 ---
 
