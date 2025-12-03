@@ -43,15 +43,16 @@ Hey there! I'm **Kevin Gultom**, studying **Information Systems** at **Del Insti
 
 ---
 
-### Achievements
+### 🏅 Certificates & Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevingultom&theme=flat&no-frame=true&column=7&margin-w=15" alt="Kevin's Trophies" />
-</div>
+| Certification | Issuer | Date | Credential |
+| :--- | :--- | :--- | :--- |
+| **Laravel - Web Development** | <img src="https://img.shields.io/badge/Sanbercode-orange?style=flat-square&logo=code&logoColor=white" height="25"/> | Jun 2025 | [View Certificate](https://sanbercode.com/certificate/in/48650df7-5b8f-4e56-88d3-daba87f9aecf) |
+| **Python Course** | <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" height="25"/> | Sep 2025 | [View Certificate](LINK_SERTIFIKAT_KAGGLE_KAMU) |
 
 ---
 
-### 🎓 Education History
+### Education History
 
 | Institute | Major | Year | Location |
 | :--- | :--- | :--- | :--- |
