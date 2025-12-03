@@ -23,26 +23,27 @@
 
 ### About Me
 
-- Saat ini saya adalah mahasiswa Jurusan **Sistem Informasi** (Angkatan 2023).
-- Saya tertarik mendalami **Web Development** dan **Database Management**.
-- Sedang mempelajari: Analisis Data dan Cloud Computing.
-- Fun fact: Mahasiswa IT Del yang *passionate* dengan teknologi!
+Hey there! I'm **Kevin Gultom**, studying **Information Systems** at **Del Institute of Technology**. With a strong passion for **Data Engineering** and **Web Development**, I'm constantly learning and striving to create innovative and scalable solutions. Let's collaborate and build amazing things together!!!
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <div align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kevingultom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Kevin's GitHub Stats" />
@@ -52,7 +53,7 @@
 
 ---
 
-### 🎓 Education History
+### Education History
 
 | Institute | Major | Year | Location |
 | :--- | :--- | :--- | :--- |
