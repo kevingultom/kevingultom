@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Kevin+Gultom;Full+Stack+Developer;Information+Systems+Student;Building+The+Future;" alt="Typing SVG" />
 </a>
 
-<p align="center">
+
 <a href="https://kevingtm.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-kevingtm.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
