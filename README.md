@@ -1,17 +1,18 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Kevin+Gultom;Full+Stack+Developer;Information+Systems+Student;Building+The+Future;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Kevin+Gultom;Full+Stack+Developer;Information+Systems+Student;Building+The+Future" alt="Typing SVG" />
 </a>
 
+<br/><br/>
 
 <a href="https://kevingtm.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-kevingtm.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
 
 <h3>
-Information Systems Student at <a href="https://www.del.ac.id/" target="_blank">Institut Teknologi Del</a>
+Information Systems Student at 
+<a href="https://www.del.ac.id/" target="_blank">Institut Teknologi Del</a>
 </h3>
 
 <p>
@@ -19,18 +20,18 @@ Information Systems Student at <a href="https://www.del.ac.id/" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/kevin-gultom31">
+<a href="https://www.linkedin.com/in/kevin-gultom31" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/kevgtm/">
+<a href="https://www.instagram.com/kevgtm/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
 <br/><br/>
 
@@ -39,12 +40,12 @@ Information Systems Student at <a href="https://www.del.ac.id/" target="_blank">
 <p>
 I'm <b>Kevin Gultom</b>, a passionate <b>Full Stack Developer</b> focused on building scalable web applications using <b>Laravel, Go, and React</b>.<br/>
 Experienced in developing <b>RESTful APIs</b>, integrating <b>AI services like Google Gemini</b>, and designing modern web interfaces.<br/>
-Currently exploring <b>backend engineering, AI integration, and cloud-based systems</b>.<br/><br/>
-
+Currently exploring <b>backend engineering, AI integration, and cloud-based systems</b>.
+<br/><br/>
 <i>"Code with purpose. Build with passion. Deploy with confidence."</i>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
 </div>
 
@@ -80,10 +81,10 @@ Currently exploring <b>backend engineering, AI integration, and cloud-based syst
 
 # AI & API Integration
 
-- Google Gemini API (AI Chatbot)
-- RESTful API Development
-- JWT Authentication
-- API Testing with Postman
+- Google Gemini API (AI Chatbot)  
+- RESTful API Development  
+- JWT Authentication  
+- API Testing with Postman  
 
 <br/>
 
